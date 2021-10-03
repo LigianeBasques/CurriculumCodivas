@@ -16,7 +16,7 @@
 <p> Nesse projeto foi utilizado <strong>HTML</strong>, <strong>CSS</strong> e <strong>Javascript</strong> :sparkling_heart:</p>
 
 <h2 id="importancia">:sparkles: Importância do Curriculum</h2>
-<p> Quando você utiliza do seu Curriculum como <strong>WebSite</strong>, você consegue demonstrar maior criatividade e habilidade o que traz mais interesse para o seu trabalho.
+<p> Quando você utiliza do seu Curriculum como <strong>WebSite</strong>, você consegue demonstrar maior criatividade e habilidade o que traz mais interesse para o seu trabalho. Mas lembrem-se é importante revisar o curriculum antes de enviar para um recrutador ou até mesmo postá-lo como website. Faça um curriculum com uma linguagem objetiva e simples.
   :sparkling_heart: </p>
 
 
